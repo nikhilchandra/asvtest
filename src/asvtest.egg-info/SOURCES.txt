@@ -1,0 +1,9 @@
+setup.py
+src/asvtest/__init__.py
+src/asvtest/asvtest.py
+src/asvtest.egg-info/PKG-INFO
+src/asvtest.egg-info/SOURCES.txt
+src/asvtest.egg-info/dependency_links.txt
+src/asvtest.egg-info/entry_points.txt
+src/asvtest.egg-info/requires.txt
+src/asvtest.egg-info/top_level.txt
